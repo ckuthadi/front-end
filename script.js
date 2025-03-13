@@ -1,6 +1,6 @@
 const works = {
     "task1": { "title": "Project 1", "url": "task1.html" },
-    "task2": { "title": "Project 2", "url": "task2.html" },
+    "task2": { "title": "Project 2", "url": "taskk2.html" },
     "task3": { "title": "Project 3", "url": "task3.html" }
 };
 
